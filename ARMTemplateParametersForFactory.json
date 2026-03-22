@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "tejaswinifirstdatafactory"
+        },
+        "tejaswiniAzureDataLakeStoragefirst_accountKey": {
+            "value": ""
+        },
+        "tejaswiniAzureDataLakeStoragefirst_properties_typeProperties_url": {
+            "value": "https://tejaswinifirststorage.dfs.core.windows.net/"
+        },
+        "HttpServerfirst_properties_typeProperties_url": {
+            "value": "https://raw.githubusercontent.com"
+        }
+    }
+}
