@@ -22,7 +22,7 @@ This project demonstrates a complete end-to-end data engineering pipeline using 
 
 ---
 
-## 🔄 Data Pipeline Flow
+##  Data Pipeline Flow
 
 1. **Data Source**
 
@@ -56,7 +56,7 @@ This project demonstrates a complete end-to-end data engineering pipeline using 
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
 * ✅ End-to-End Data Pipeline
 * ✅ Medallion Architecture Implementation
@@ -68,7 +68,7 @@ This project demonstrates a complete end-to-end data engineering pipeline using 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 azure-data-engineering-project/
@@ -98,35 +98,32 @@ azure-data-engineering-project/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔹 ADF Pipeline
+###  ADF Pipeline
 
-![ADF Pipeline](screenshots/adf_pipeline.png)
+![ADF Pipeline](https://github.com/tejaswiparitala203/azure-data-engineering-project/blob/bd31b44babe4833aba3ac20421de93f59eb1d8c6/pipeline.png)
 
-### 🔹 Databricks Transformation
+###  Databricks Transformation
 
 ![Databricks](screenshots/databricks.png)
 
-### 🔹 Synapse Output
-
-![Synapse](screenshots/synapse.png)
 
 ---
 
-## 🚀 Business Use Case
+##  Business Use Case
 
 This project simulates a **retail data analytics pipeline** where raw sales data is processed into structured, business-ready data to enable reporting and decision-making.
 
 ---
 
-## 🔑 Keywords
+##  Keywords
 
 Azure Data Engineer, ADF, ADLS Gen2, Databricks, Synapse, PySpark, ETL Pipeline, Medallion Architecture, Data Engineering Project
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Tejaswini Paritala**
 
