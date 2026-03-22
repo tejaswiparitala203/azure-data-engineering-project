@@ -106,7 +106,7 @@ azure-data-engineering-project/
 
 ###  Databricks Transformation
 
-![Databricks](screenshots/databricks.png)
+![Databricks](https://github.com/tejaswiparitala203/azure-data-engineering-project/blob/a9d16298cd9b61db201d74f049ce78c30bec6efb/Databricks.png)
 
 
 ---
