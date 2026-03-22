@@ -18,7 +18,7 @@ This project demonstrates a complete end-to-end data engineering pipeline using 
 
 ##  Architecture Overview
 
-![Architecture Diagram](architecture/architecture.png)
+![image alt](https://github.com/tejaswiparitala203/azure-data-engineering-project/blob/564ccade5cb1febb25dcd1c3aaf90dd14e7ac1a0/architecture.png)
 
 ---
 
